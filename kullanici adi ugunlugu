@@ -1,0 +1,15 @@
+adet=0
+
+kr='ŞşÇçÖöÜüĞğİı'
+
+ad= input("Kullanici adi giriniz:")
+
+for x in ad:
+
+	if x in kr:
+
+		adet=adet+1
+
+if adet >0:
+
+	print("Turkce karakter kullanilamaz")
