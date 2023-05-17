@@ -1,0 +1,9 @@
+m1='Bilgisayar'
+
+m2='Bilişim'
+
+for x in m1:
+
+	if not x in m2:
+
+		print(x)
