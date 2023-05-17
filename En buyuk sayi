@@ -1,0 +1,15 @@
+s1=int(input("Sayi1:"))
+
+s2=int(input("Sayi2:"))
+
+s3=int(input("Sayi3:"))
+
+s4=int(input("Sayi4:"))
+
+s5=int(input("Sayi5:"))
+
+if s1>s2 and s1>s3 and s1>s4 and s1>s5:           print("En buyuk sayi:; s1")
+
+elif s2>s1 and s2>s3 and s2>s4 and s2>s5:
+
+ print("En buyuk sayi: s2")
