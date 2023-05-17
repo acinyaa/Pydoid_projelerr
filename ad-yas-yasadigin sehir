@@ -1,0 +1,7 @@
+ad=input("Adiniz:")
+
+sehir=input("Yasadiginiz sehir:")
+
+yas=input("Yasiniz:")
+
+print(yas+"indaki",ad,sehir+"de yasamak harika")
